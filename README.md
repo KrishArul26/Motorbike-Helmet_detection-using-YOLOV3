@@ -15,3 +15,10 @@
   <img width="600" src="https://user-images.githubusercontent.com/74568334/121785810-3ba6a800-cbbc-11eb-9140-ac220fca83f0.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/121785807-3a757b00-cbbc-11eb-9db7-7838ec2af5eb.jpg">
 </p> 
+
+### 🔑 Prerequisites
+* All the dependencies and required libraries are included in the file [requirements.txt](https://raw.githubusercontent.com/KrishArul26/Motorbike-Helmet_detection-using-ssd_mobilenet_v1/main/requirements.txt)
+
+### 📁 Data Collection
+
+This project has done up to 40000 epochs with error 0.75 values.Futher, 2000 images were collected with helmet.
