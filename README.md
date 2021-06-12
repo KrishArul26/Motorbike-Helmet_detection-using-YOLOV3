@@ -21,9 +21,11 @@
 * All the dependencies and required libraries are included in the file [requirements.txt](https://raw.githubusercontent.com/KrishArul26/Motorbike-Helmet_detection-using-ssd_mobilenet_v1/main/requirements.txt)
 
 
-### 📁 Data Collection
+### 📁 Data Collection & prepration
 
-This project has done up to 40000 epochs with error 0.75 values.Futher, 2000 images were collected with helmet.
+* This project has done up to 40000 epochs with error 0.75 values.Futher, 2000 images were collected with helmet.
+
+* **Labelling the images** - Generate the XML files based on original images, which means you indicate the object in images and find the coordinates of the object in the particular image. and record the information into XML files.
 
 ### 🚀 Installation
 
