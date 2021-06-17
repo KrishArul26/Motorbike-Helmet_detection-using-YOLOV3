@@ -47,7 +47,9 @@
 
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 
-* pip install -r requirements.txt
+* '''
+pip install -r requirements.txt
+'''
 
 ### 💡 Working
 
