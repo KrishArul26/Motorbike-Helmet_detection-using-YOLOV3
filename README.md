@@ -23,7 +23,8 @@
 
 ### 📁 Data Collection & prepration
 
-* This project has done up to 40000 epochs with error 0.08 values.Futher, 2000 images were collected with helmet.
+* 2000 helmet images were collected and used those images for trained the SSD-Mobilenet-V1.
+* This project has done up to 50000 epochs with error 0.08 values.
 
 * **Labelling the images** - Generate the XML files based on original images, which means you indicate the object in images and find the coordinates of the object in the particular image. and record the information into XML files.
 
@@ -31,23 +32,38 @@
 
 1. Clone the repo
 
-* git clone https://github.com/KrishArul26/Motorbike-Helmet_detection-using-ssd_mobilenet_v1.git
+```
+git clone https://github.com/KrishArul26/Motorbike-Helmet_detection-using-ssd_mobilenet_v1.git
+
+```
 
 2. Change your directory to the cloned repo
 
-* cd Motorbike-Helmet_detection-using-ssd_mobilenet_v1
+```
+cd Motorbike-Helmet_detection-using-ssd_mobilenet_v1
+```
+
 
 3. Create a Python 3.6 version of  virtual environment named 'motorbike' and activate it
 
-* pip install virtualenv
+```
+pip install virtualenv
 
-* virtualenv mask
+```
 
-* mask\Scripts\activate
+```
+virtualenv mask
+
+```
+
+```
+mask\Scripts\activate
+
+```
 
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 
-* '''
+'''
 pip install -r requirements.txt
 '''
 
@@ -55,7 +71,9 @@ pip install -r requirements.txt
 
 1. Open terminal. Go into the cloned project directory and type the following command:
 
-* python motorbike_helmet_detection.py
+```
+python motorbike_helmet_detection.py
+```
 
 ### 🔑 Results 
 
