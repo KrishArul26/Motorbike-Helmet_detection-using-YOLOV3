@@ -1,6 +1,6 @@
 <h2 align="center"> Motorbike-Helmet_detection-using-ssd_mobilenet_v1</h2>
 
-<h3 align="left"> In this project, whether a person is wearing a helmet or not while travelling the bike. as well as it will show the confidence value of the prediction.</h3>
+<h3 align="left"> I built the system in such a way Firstly, It will be able to detect the motorbike after that It will detect who driving the bike finally, It will detect wheater that person is wearing a helmet or not.  For that, I have trained  SSD-Mobilenet-V1 and SSD-Mobilenet-V1 pre-trained model for detect Motorbike as well as human.</h3>
 
 
 <p align="center">
