@@ -18,6 +18,7 @@
 
 
 ### 🔑 Prerequisites
+
 * All the dependencies and required libraries are included in the file [requirements.txt](https://raw.githubusercontent.com/KrishArul26/Motorbike-Helmet_detection-using-ssd_mobilenet_v1/main/requirements.txt)
 
 
@@ -63,9 +64,10 @@ mask\Scripts\activate
 
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 
-'''
+```
 pip install -r requirements.txt
-'''
+
+```
 
 ### 💡 Working
 
@@ -73,23 +75,29 @@ pip install -r requirements.txt
 
 ```
 python motorbike_helmet_detection.py
+
 ```
 
 ### 🔑 Results 
 
 * For this motorbike helmet detection, I used computer vision trained net work which is SSD-mobilenet-v1
 
+### Testing-1
 <p align="left">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/121786102-1a46bb80-cbbe-11eb-9993-34126b93e444.jpg">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/121786102-1a46bb80-cbbe-11eb-9993-34126b93e444.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/121786103-1adf5200-cbbe-11eb-89ad-29d50c8332e0.jpg">
 </p> 
 
+### Testing-2
+
 <p align="left">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/121786147-5bd76680-cbbe-11eb-9a8f-931a4eed85a3.jpg">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/121786147-5bd76680-cbbe-11eb-9a8f-931a4eed85a3.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/121786145-5b3ed000-cbbe-11eb-861f-f0d98d10f3ad.jpg">
 </p> 
 
+### Testing-3
+
 <p align="left">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/121786194-8de8c880-cbbe-11eb-943a-8bcab7581ae1.jpg">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/121786194-8de8c880-cbbe-11eb-943a-8bcab7581ae1.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/121786192-8cb79b80-cbbe-11eb-9a0c-cbb5ffef314d.jpg">
 </p> 
