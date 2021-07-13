@@ -8,7 +8,7 @@
 </p> 
 
 
-<h3 align="center"> <span style="color:green">Motor Bike detection/ Helmet detection/ Person detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like SSD-mobilenet-v1</span></h3>
+<h3 align="center"> <span style="color:green">Motor Bike detection/ Helmet detection/ Human detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like SSD-mobilenet-v1</span></h3>
 
 
 <p align="left">
