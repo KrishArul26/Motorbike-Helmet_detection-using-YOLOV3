@@ -1,6 +1,11 @@
 <h2 align="center"> Motorbike-Helmet_detection-using-ssd_mobilenet_v1</h2>
 
-<h3 align="left"> We have to wear a helmet according to road safety rules when riding a motorcycle. Therefore, these rules are monitored by the police. Also, Due to the invention of high-quality cameras and the development of the state of art in AI, the surveillance system willing to use AI system for detect whether passengers are wearing helmets or not. In this category I have built a model, first, it can be able to detect the motorcycle, then it will find out who is riding the bike. Finally, it will determine whether the person is wearing a helmet or not. To that end, I trained the pre-trained model SSD-MobileNet-V1 to detect motorcycles and humans.</h3>
+<h3 align="left">Introduction 
+  
+</h3>
+
+<h3 align="left"> We have to wear a helmet according to road safety rules when riding a motorcycle. Therefore, these rules are monitored by the police. Also, Due to the invention of high-quality cameras and the development of the state of art in AI, the surveillance system willing to use AI system for detect whether passengers are wearing helmets or not. In this category I have built a model, first, it can be able to detect the motorcycle, then it will find out who is riding the bike. Finally, it will determine whether the person is wearing a helmet or not. To that end, I trained the pre-trained model SSD-MobileNet-V1 to detect motorcycles and humans.
+ </h3>
 
 
 <p align="center">
