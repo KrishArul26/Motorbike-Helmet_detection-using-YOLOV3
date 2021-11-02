@@ -1,4 +1,4 @@
-<h2 align="center"> Motorbike-Helmet_detection-using-ssd_mobilenet_v1</h2>
+<h2 align="center"> Motorbike-Helmet_detection-using-YOLOV3</h2>
 
 <h3 align="left">Introduction 
   
