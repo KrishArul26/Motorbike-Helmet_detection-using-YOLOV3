@@ -13,7 +13,7 @@
 </p> 
 
 
-<h3 align="center"> <span style="color:green">Motor Bike detection/ Helmet detection/ Human detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like SSD-mobilenet-v1</span></h3>
+<h3 align="center"> <span style="color:green">Motor Bike detection/ Helmet detection/ Human detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like YOLOV3</span></h3>
 
 
 <p align="left">
@@ -29,7 +29,7 @@
 
 ### 📁 Data Collection & prepration
 
-* 2000 helmet images were collected and used those images for trained the SSD-Mobilenet-V1.
+* 2000 helmet images were collected and used those images for trained the YOLOV3.
 * This project has done up to 50000 epochs with error 0.08 values.
 
 * **Labelling the images** - Generate the XML files based on original images, which means you indicate the object in images and find the coordinates of the object in the particular image. and record the information into XML files.
@@ -39,14 +39,14 @@
 1. Clone the repo
 
 ```
-git clone https://github.com/KrishArul26/Motorbike-Helmet_detection-using-ssd_mobilenet_v1.git
+git clone https://github.com/KrishArul26/Motorbike-Helmet_detection-using-YOLOV3.git
 
 ```
 
 2. Change your directory to the cloned repo
 
 ```
-cd Motorbike-Helmet_detection-using-ssd_mobilenet_v1
+cd Motorbike-Helmet_detection-using-YOLOV3
 ```
 
 
@@ -85,8 +85,7 @@ python motorbike_helmet_detection.py
 
 ### 🔑 Results 
 
-* For this motorbike helmet detection, I used computer vision trained net work which is SSD-mobilenet-v1
-
+* For this motorbike helmet detection, I used computer vision trained net work which is YOLOV3
 ### Testing-1
 <p align="left">
   <img width="450" src="https://user-images.githubusercontent.com/74568334/121786102-1a46bb80-cbbe-11eb-9993-34126b93e444.jpg">
