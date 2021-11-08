@@ -12,13 +12,13 @@
            which generates probabilities for each region. YOLO predicts multiple bounding boxes that cover some regions of the image and then based on
            the probabilities, picks the best one. Moreover, 
   
-                   1. YOLOv3 has a total of 106 layers where detections are made at 82, 94 and 106 layers.
+               1. YOLOv3 has a total of 106 layers where detections are made at 82, 94 and 106 layers.
 
-                   2. It consists of a residual blocks, skip connections and up-sampling.
+               2. It consists of a residual blocks, skip connections and up-sampling.
 
-                   3. Each convolutional layer is followed by batch normalization layer and Leaky ReLU activation function.
+               3. Each convolutional layer is followed by batch normalization layer and Leaky ReLU activation function.
 
-                   4. There are no pooling layers, but instead, additional convolutional layers with stride 2, are used to down-sample feature maps.
+               4. There are no pooling layers, but instead, additional convolutional layers with stride 2, are used to down-sample feature maps.
 
 </p>
 
