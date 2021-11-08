@@ -31,7 +31,7 @@
 </p> 
 
 
-<h3 align="center"> <span style="color:green">Motor Bike detection/ Helmet detection/ Human detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like YOLOV3</span></h3>
+<h4 align="center"> <span style="color:green">Motor Bike detection/ Helmet detection/ Human detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts like YOLOV3</span></h4>
 
 
 <p align="left">
