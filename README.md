@@ -40,6 +40,19 @@
 </p> 
 
 
+<h2 align="center"> Technologies Used </h2>
+ 
+ ```
+                    1. IDE - Pycharm
+                    2. YOLOV3 - Pre-Trained Object Detection Model
+                    3. GPU - P-4000
+                    4. Google Colab - Just for Image analysis
+                    5. OpenCV - Just for the continious image and To draw boxes
+                    6. labelimg - Just for labeling images
+                    7. TensorFlow - For Tensor Analysis 
+                    
+ ```
+
 ### 🔑 Prerequisites
 
 * All the dependencies and required libraries are included in the file [requirements.txt](https://raw.githubusercontent.com/KrishArul26/Motorbike-Helmet_detection-using-ssd_mobilenet_v1/main/requirements.txt)
@@ -76,12 +89,12 @@ pip install virtualenv
 ```
 
 ```
-virtualenv mask
+virtualenv motorbike
 
 ```
 
 ```
-mask\Scripts\activate
+motorbike\Scripts\activate
 
 ```
 
