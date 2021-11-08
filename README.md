@@ -104,7 +104,9 @@ python motorbike_helmet_detection.py
 ### 🔑 Results 
 
 * For this motorbike helmet detection, I used computer vision trained net work which is YOLOV3
+
 ### Testing-1
+
 <p align="left">
   <img width="450" src="https://user-images.githubusercontent.com/74568334/121786102-1a46bb80-cbbe-11eb-9993-34126b93e444.jpg">
   <img width="350" src="https://user-images.githubusercontent.com/74568334/121786103-1adf5200-cbbe-11eb-89ad-29d50c8332e0.jpg">
@@ -124,6 +126,7 @@ python motorbike_helmet_detection.py
   <img width="350" src="https://user-images.githubusercontent.com/74568334/121786192-8cb79b80-cbbe-11eb-9a0c-cbb5ffef314d.jpg">
 </p> 
 
-### Additional Task
-<h3 align="left"> Also, we can develop the system in such a way It has to able to extract the Number plate information.  In case, the person is not wearing the helmet then our system will be able to store number plate information. And backend, It will find, Registration of that number plate and send the penalty details through the letter.</h3>
+
+<h3 align="left">Further Improvements</h3>
+<p style= 'text-align: justify;'> We can also develop the system to be able to extract the license plate information. In case the person is not wearing a helmet, then our system will be able to store the license plate information. And backend, it will find the registration of that license plate and send the penalty details by letter.</p>
 
