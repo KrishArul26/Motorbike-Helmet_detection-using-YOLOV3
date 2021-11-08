@@ -1,12 +1,34 @@
 <h2 align="center"> Motorbike-Helmet_detection-using-YOLOV3</h2>
 
-<h3 align="left">Introduction 
+<h3 align="left"> YOLOV3</h3>
+
+ <p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/74568334/140792130-bfefeb77-c557-4332-bd5b-9a66cf24cc0e.png">
+</p> 
+
+<p style= 'text-align: justify;'> YOLO stands for "You Only Look Once" which uses Convolutional Neural Networks for Object Detection. On a single image, 
   
-</h3>
+  YOLO may detect multiple objects. It implies that, in addition to predicting object classes, YOLO also recognises its positions in the image. 
+  
+  The entire image is processed by a single Neural Network in YOLO. The picture is divided into regions using this Neural Network, 
+  
+  which generates probabilities for each region. YOLO predicts multiple bounding boxes that cover some regions of the image and then based on the probabilities, 
+  
+  picks the best one. Moreover, 
+  
+    1. YOLOv3 has a total of 106 layers where detections are made at 82, 94 and 106 layers.
+  
+    2. It consists of a residual blocks, skip connections and up-sampling.
+  
+    3. Each convolutional layer is followed by batch normalization layer and Leaky ReLU activation function.
+  
+    4. There are no pooling layers, but instead, additional convolutional layers with stride 2, are used to down-sample feature maps.
 
-<h3 align="left"> We have to wear a helmet according to road safety rules when riding a motorcycle. Therefore, these rules are monitored by the police. Also, Due to the invention of high-quality cameras and the development of the state of art in AI, the surveillance system willing to use AI system for detect whether passengers are wearing helmets or not. In this category I have built a model, first, it can be able to detect the motorcycle, then it will find out who is riding the bike. Finally, it will determine whether the person is wearing a helmet or not. To that end, I trained the pre-trained model YOLOV3 to detect motorcycles and humans.
- </h3>
+</p>
 
+<h3 align="left">Problems Statment </h3>
+
+<p style= 'text-align: justify;'>  We have to wear a helmet according to road safety rules when riding a motorcycle. Therefore, these rules are monitored by the police. Also, Due to the invention of high-quality cameras and the development of the state of art in AI, the surveillance system willing to use AI system for detect whether passengers are wearing helmets or not. In this category I have built a model, first, it can be able to detect the motorcycle, then it will find out who is riding the bike. Finally, it will determine whether the person is wearing a helmet or not. To that end, I trained the pre-trained model YOLOV3 to detect motorcycles and humans.</p>
 
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/74568334/121785707-a4d9eb80-cbbb-11eb-8085-14edab126732.jpg">
