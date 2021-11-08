@@ -7,22 +7,18 @@
 </p> 
 
 <p style= 'text-align: justify;'> YOLO stands for "You Only Look Once" which uses Convolutional Neural Networks for Object Detection. On a single image, 
+           YOLO may detect multiple objects. It implies that, in addition to predicting object classes, YOLO also recognises its positions in the image. 
+           The entire image is processed by a single Neural Network in YOLO. The picture is divided into regions using this Neural Network, 
+           which generates probabilities for each region. YOLO predicts multiple bounding boxes that cover some regions of the image and then based on
+           the probabilities, picks the best one. Moreover, 
   
-  YOLO may detect multiple objects. It implies that, in addition to predicting object classes, YOLO also recognises its positions in the image. 
-  
-  The entire image is processed by a single Neural Network in YOLO. The picture is divided into regions using this Neural Network, 
-  
-  which generates probabilities for each region. YOLO predicts multiple bounding boxes that cover some regions of the image and then based on the probabilities, 
-  
-  picks the best one. Moreover, 
-  
-    1. YOLOv3 has a total of 106 layers where detections are made at 82, 94 and 106 layers.
-  
-    2. It consists of a residual blocks, skip connections and up-sampling.
-  
-    3. Each convolutional layer is followed by batch normalization layer and Leaky ReLU activation function.
-  
-    4. There are no pooling layers, but instead, additional convolutional layers with stride 2, are used to down-sample feature maps.
+                      1. YOLOv3 has a total of 106 layers where detections are made at 82, 94 and 106 layers.
+
+                      2. It consists of a residual blocks, skip connections and up-sampling.
+
+                      3. Each convolutional layer is followed by batch normalization layer and Leaky ReLU activation function.
+
+                      4. There are no pooling layers, but instead, additional convolutional layers with stride 2, are used to down-sample feature maps.
 
 </p>
 
