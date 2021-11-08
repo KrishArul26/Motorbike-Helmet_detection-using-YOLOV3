@@ -24,7 +24,7 @@
 
 <h3 align="left">Problems Statment </h3>
 
-<p style= 'text-align: justify;'>  We have to wear a helmet according to road safety rules when riding a motorcycle. Therefore, these rules are monitored by the police. Also, Due to the invention of high-quality cameras and the development of the state of art in AI, the surveillance system willing to use AI system for detect whether passengers are wearing helmets or not. In this category I have built a model, first, it can be able to detect the motorcycle, then it will find out who is riding the bike. Finally, it will determine whether the person is wearing a helmet or not. To that end, I trained the pre-trained model YOLOV3 to detect motorcycles and humans.</p>
+<p style= 'text-align: justify;'> When riding a motorcycle, we must We have to wear a helmet according to the rules of the road. Therefore, these rules are monitored by the police. Due to the invention of high quality cameras and the development of the state of the art in AI, the surveillance system willing to use AI systems to detect whether the occupants are wearing a helmet or not. In this category, I have developed a model that can first detect the motorcycle and then find out who is sitting on the motorcycle. Finally, it will determine whether the person is wearing a helmet or not. For this purpose, I trained the pre-trained model YOLOV3 to recognise motorcycles and people.</p>
 
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/74568334/121785707-a4d9eb80-cbbb-11eb-8085-14edab126732.jpg">
